@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VS2015-WIN/Debug
+/VS2015-WIN/VS2015-WIN/Debug
+/VS2015-WIN/VS2015-WIN.VC.VC.opendb
+/VS2015-WIN/VS2015-WIN.VC.db
